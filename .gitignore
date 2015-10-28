@@ -1,0 +1,28 @@
+canve.log
+canve-data/
+
+canve.sbt
+
+# sbt
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+credentials.sbt
+*.icode
+
+# IntelliJ
+.idea
+.idea_modules
+
+# eclipse / Scala-IDE
+.classpath
+.project
+.settings/
+.cache*
+.scala_dependencies
+.classpath
+*.iml
+/bin/
