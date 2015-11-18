@@ -39,7 +39,7 @@ git commit -am "update linked projects"
 
 <br>
 
-##Removing a linked test project from the repo
+##Removing a linked project from this repo
 
 TBD (refer to stack overflow or the [git submodules reference doc](https://git-scm.com/docs/git-submodule))
 
