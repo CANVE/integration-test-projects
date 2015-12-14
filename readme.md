@@ -9,6 +9,12 @@ git clone git@github.com:CANVE/integration-test-projects.git
 git submodule update --init
 ```
 
+Some cloned projects have their own binary dependencies. Make sure they are installed, to avoid false-negative results.
+
+| project | dependency | ubuntu installation command
+| ------- |:----------:| ---------------------------
+| akka    | graphviz   | sudo apt-get install graphviz
+
 <br>
 
 ---
